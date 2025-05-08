@@ -67,9 +67,8 @@ body {
     font-size: var(--font-size-small);
     font-family: var(--font-stack);
     font-weight: 400;
-    color: f0e9f2;
     line-height: var(--line-height-normal);
-    background-color: fff5f7;
+    background-color: ecdde0;
     overflow-x: hidden;
 }
 
