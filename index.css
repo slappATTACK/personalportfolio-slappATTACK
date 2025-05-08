@@ -69,7 +69,7 @@ body {
     font-weight: 400;
     color: var(--white-1);
     line-height: var(--line-height-normal);
-    background-color: addbe8;
+    background-color: #addbe8;
     overflow-x: hidden;
 }
 
@@ -119,7 +119,7 @@ h3 {
     font-family: Comic Sans MS, cursive;
     font-weight: 400;
     line-height: var(--line-height-small);
-    color: var(--white);
+    color: pink;
 }
 
 .heading-primary {
@@ -388,7 +388,7 @@ body:not(.user-is-tabbing) a:focus {
 
 .header {
     background: linear-gradient(rgba(0,0,0, .1), rgba(0,0,0, .4)), 
-        url('./images/header.jpg');
+        url('redbackgroundimage.jpg');
     height: 100vh;
     background-size: cover;
     background-position: center;
