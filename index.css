@@ -32,7 +32,7 @@
     --line-height-small: 1.2;
 
     --black: 000;
-    --pink: ff3258;
+    --pink: ae2441;
     --white: f0e9f2;
     --white-1: e5e5e6da;
 
@@ -67,9 +67,9 @@ body {
     font-size: var(--font-size-small);
     font-family: var(--font-stack);
     font-weight: 400;
-    color: var(--white-1);
+    color: f0e9f2;
     line-height: var(--line-height-normal);
-    background-color: #addbe8;
+    background-color: addbe8;
     overflow-x: hidden;
 }
 
@@ -119,7 +119,7 @@ h3 {
     font-family: Comic Sans MS, cursive;
     font-weight: 400;
     line-height: var(--line-height-small);
-    color: pink;
+    color: ae2441;
 }
 
 .heading-primary {
