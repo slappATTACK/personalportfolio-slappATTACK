@@ -1,13 +1,13 @@
 
 @font-face {
-    font-family: 'Hk Grotesk';
+     font-family: Comic Sans MS, cursive;
     font-style: normal;
     font-weight: 400;
     src: url('./fonts/HKGrotesk-Regular.woff') format('woff');
 }
 
 @font-face {
-    font-family: 'Jost';
+     font-family: Comic Sans MS, cursive;
     font-style: normal;
     font-weight: 400;
     src: url('./fonts/Jost-Regular.ttf') format('woff');
@@ -31,10 +31,10 @@
     --line-height-normal: 1.7;
     --line-height-small: 1.2;
 
-    --black: #000;
-    --pink: #ff3258;
-    --white: #f0e9f2;
-    --white-1: #e5e5e6da;
+    --black: 000;
+    --pink: ff3258;
+    --white: f0e9f2;
+    --white-1: e5e5e6da;
 
 
     --container-max-width: 1180px;
@@ -69,7 +69,7 @@ body {
     font-weight: 400;
     color: var(--white-1);
     line-height: var(--line-height-normal);
-    background: var(--black);
+    background-color: addbe8;
     overflow-x: hidden;
 }
 
@@ -116,7 +116,7 @@ img {
 h1,
 h2,
 h3 {
-    font-family: 'Jost', sans-serif;
+    font-family: Comic Sans MS, cursive;
     font-weight: 400;
     line-height: var(--line-height-small);
     color: var(--white);
@@ -180,7 +180,7 @@ p {
 a {
     color: var(--white);
     font-weight: 400;
-    font-family: 'Jost', sans-serif;
+    font-family: Comic Sans MS, cursive;
     transition: all .2s;
     outline: 2px solid transparent;
 }
