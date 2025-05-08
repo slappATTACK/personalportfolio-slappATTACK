@@ -113,13 +113,16 @@ img {
 }
 
 
-h1,
+h1 {
+     font-family: Comic Sans MS, cursive;
+      font-weight: 400;
+      font-color: white; 
 h2,
 h3 {
     font-family: Comic Sans MS, cursive;
     font-weight: 400;
     line-height: var(--line-height-small);
-    color: ae2441;
+    color: 0C014F;
 }
 
 .heading-primary {
